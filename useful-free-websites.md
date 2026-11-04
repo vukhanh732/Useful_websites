@@ -20,6 +20,7 @@ A curated list of free websites worth bookmarking.
 ## Entertainment Discovery
 
 - **[Reely](https://www.reely.space/)** — Site for discovering trending, top-rated, and popular movies and TV shows and tracking what you watch.
+- **[Bucketlist.nl](https://bucketlist.nl/)** — Dutch-language travel and life-experience ideas with a personal bucket list; browsing is free, while optional activities may be paid. Entry added November 2026.
 
 ---
 *Compiled July 2026.*
