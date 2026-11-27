@@ -20,6 +20,7 @@ A curated list of free websites worth bookmarking.
 ## Entertainment Discovery
 
 - **[Reely](https://www.reely.space/)** — Site for discovering trending, top-rated, and popular movies and TV shows and tracking what you watch.
+- **[StagePeek](https://stagepeek.live/)** — Interactive 2D seating maps and 3D concert stage-view simulator across 201 venues with 1x–10x smartphone camera zoom (free first-seat preview with no login; Freemium).
 
 ---
 *Compiled July 2026.*
